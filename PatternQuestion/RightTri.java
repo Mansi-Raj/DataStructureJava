@@ -19,5 +19,6 @@ public class RightTri {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

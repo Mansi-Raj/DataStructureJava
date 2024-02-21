@@ -14,5 +14,6 @@ public class InvertedLeftTri {
             }
             System.out.println();
         }
+        s.close();
     }
 }

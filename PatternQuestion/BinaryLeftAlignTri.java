@@ -4,8 +4,6 @@ package DataStructureJava.PatternQuestion;
 
 import java.util.*;
 
-import javax.swing.text.Style;
-
 public class BinaryLeftAlignTri {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -21,5 +19,6 @@ public class BinaryLeftAlignTri {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

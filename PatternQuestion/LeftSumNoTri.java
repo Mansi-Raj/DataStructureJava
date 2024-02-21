@@ -16,5 +16,6 @@ public class LeftSumNoTri {
             }
             System.out.println();
         }
+        s.close();
     }
 }

@@ -17,5 +17,6 @@ public class NoPyramid {
             }
             System.err.println();
         }
+        sc.close();
     }
 }

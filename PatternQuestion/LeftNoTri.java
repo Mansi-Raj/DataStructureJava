@@ -14,5 +14,6 @@ public class LeftNoTri {
             }
             System.out.println();
         }
+        s.close();
     }
 }

@@ -25,5 +25,6 @@ public class PalindromicPyramid {
             }
             System.out.println();
         }
+        s.close();
     }
 }

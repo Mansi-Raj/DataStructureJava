@@ -14,5 +14,6 @@ public class LeftAlignTri {
             }
             System.out.println();
         }
+        s.close();
     }
 }
