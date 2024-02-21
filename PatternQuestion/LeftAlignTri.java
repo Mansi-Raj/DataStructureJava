@@ -1,5 +1,7 @@
 package DataStructureJava.PatternQuestion;
 
+// Question 3
+
 import java.util.*;
 
 public class LeftAlignTri {

@@ -1,5 +1,7 @@
 package DataStructureJava.PatternQuestion;
 
+// Question 6
+
 import java.util.*;
 
 public class LeftNoTri {

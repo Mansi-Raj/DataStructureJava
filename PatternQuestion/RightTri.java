@@ -1,5 +1,7 @@
 package DataStructureJava.PatternQuestion;
 
+// Question 5
+
 import java.util.*;
 
 public class RightTri {
