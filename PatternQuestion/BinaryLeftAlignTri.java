@@ -1,6 +1,6 @@
 package DataStructureJava.PatternQuestion;
 
-// Question 9
+//Lec 5: Question 9
 
 import java.util.*;
 
