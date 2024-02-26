@@ -15,7 +15,7 @@ public class NoPyramid {
             for (int j = 0; j <= i; j++) {
                 System.out.print(i + 1 + " ");
             }
-            System.err.println();
+            System.out.println();
         }
         sc.close();
     }
